@@ -43,7 +43,8 @@ The website design was inspired by [PLD Space](https://www.pldspace.com/es/), pa
     ├── astronauta.jpg
     ├── eclipse-lunar.jpg
     ├── via-lactea.jpg
-    └── telescopio-espacial.jpg```
+    └── telescopio-espacial.jpg
+    ```
 
 ## Installation and Usage
 
