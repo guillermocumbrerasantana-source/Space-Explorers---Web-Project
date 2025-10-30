@@ -26,7 +26,8 @@ The website design was inspired by [PLD Space](https://www.pldspace.com/es/), pa
 - Font Awesome for icons
 
 ## Project Structure
-```space-explorers/
+```
+space-explorers/
 ├── web_espacial.html
 ├── web_espacial.css
 ├── web_espacial.js
@@ -44,7 +45,8 @@ The website design was inspired by [PLD Space](https://www.pldspace.com/es/), pa
     ├── eclipse-lunar.jpg
     ├── via-lactea.jpg
     └── telescopio-espacial.jpg
-    ```
+    
+```
 
 ## Installation and Usage
 
